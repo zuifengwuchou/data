@@ -14,11 +14,11 @@
   "file": {
     "success": true,
     "attachments": [{
-      "targetType": "2",(上传类型)
-      "userId": "",（用户id）
-      "attachmentUrl": 				"http://10.126.16.196/default/files/zhhg/attachment/20221111020.pdf",（上传路径）
-      "name": "20221111020.pdf",（附件名称）
-      "id": "1495947951695142914"（主键id）
+      "targetType": "2",
+      "userId": "",
+      "attachmentUrl": "http://10.126.16.196/default/files/zhhg/attachment/20221111020.pdf",
+      "name": "20221111020.pdf",
+      "id": "1495947951695142914"
     }]
   }
 }
